@@ -25,7 +25,7 @@ description              : "Research Portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jeffrey-sternberg/jeffrey-sternberg.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/teaser.png"  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/SFF Logo-SeeThru.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : #"North Lawndale Profile"# overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeff Sternberg"
-  avatar           : "/assests/images/bio_jeff-sternberg.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio_jeff-sternberg.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD in Sociology from Northeastern University."
   location         : "Chicago, IL"
   email            :
