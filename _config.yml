@@ -17,16 +17,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "North Lawndale | A Neighborhood Profile"
+title                    : "Jeff Sternberg, PhD | Sociologist & Economic Geographer"
 title_separator          : "|"
 subtitle                 : #"A Neighborhood Profile"# site tagline that appears below site title in masthead
-name                     : "Steans Family Foundation"
-description              : "An Data-based Profile of Chicago's North Lawndale Neighborhood."
+name                     : "Jeff Sternberg, PhD"
+description              : "Research Portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "sff-foundation/sff-foundation.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jeffrey-sternberg/jeffrey-sternberg.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/SFF Logo-SeeThru.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : #"/assets/images/SFF Logo-SeeThru.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : #"North Lawndale Profile"# overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -90,7 +90,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :@JeffSternberg
 facebook:
   username               :
   app_id                 :
@@ -113,15 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Steans Family Foundation"
+  name             : "Jeff Sternberg"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "The Steans Family Foundation (SFF) dedicates time, resources, and skills within the North Lawndale community, located on Chicago’s west side. SFF believes effective revitalization can occur within the existing social, educational, and economic networks that create and sustain communities. SFF believes that with investment, coupled with a strong policy ecosystem, communities can thrive."
-  location         : "50 E Washington St, Chicago, IL"
+  bio              : "Sociologist, Economic Geographer, Reseacher. PhD in Sociology from Northeastern University."
+  location         : "Chicago, IL"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:jeffrey.l.sternberg@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/jeffrey-sternberg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
