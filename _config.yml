@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Jeff Sternberg, PhD | Sociologist & Economic Geographer"
 title_separator          : "|"
-subtitle                 : #"A Neighborhood Profile"# site tagline that appears below site title in masthead
+subtitle                 : "A Research Portfolio"# site tagline that appears below site title in masthead
 name                     : "Jeff Sternberg, PhD"
 description              : "Research Portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Jeff Sternberg"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Sociologist \nEconomic Geographer \nReseacher \nPhD in Sociology from Northeastern University."
+  avatar           : "/assests/images/bio_jeff-sternberg.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "PhD in Sociology from Northeastern University."
   location         : "Chicago, IL"
   email            :
   links:
