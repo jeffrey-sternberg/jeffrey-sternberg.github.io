@@ -323,6 +323,3 @@ defaults:
       comments: # true
       share: true
       related: true
-#Header Image
-header:
-  overlay_image: "/assets/images/teaser.jpg"
