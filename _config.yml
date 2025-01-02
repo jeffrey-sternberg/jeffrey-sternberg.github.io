@@ -90,7 +90,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :@JeffSternberg
+  username               :JeffSternberg
 facebook:
   username               :
   app_id                 :
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Jeff Sternberg"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Sociologist, Economic Geographer, Reseacher. PhD in Sociology from Northeastern University."
+  bio              : "Sociologist \nEconomic Geographer \nReseacher \nPhD in Sociology from Northeastern University."
   location         : "Chicago, IL"
   email            :
   links:
