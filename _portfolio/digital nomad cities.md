@@ -3,8 +3,8 @@ title: "Digital Nomad Cities: Beyond the Global City and Towards an Unbundling o
 excerpt: "Mapping Digital Nomad Migration Globally"
 classes: wide
 header:
-  overlay_image: /assets/images/modularity class network copy.png
-  teaser: /assets/images/modularity class network copy.png
+  overlay_image: /assets/images/Modularity Class Network copy.png
+  teaser: /assets/images/Modularity Class Network copy.png
 sidebar:
   - title: "Dissertation Chapter & Article"
     text: "Being prpared for Submisiion to _Urban Geography_" 
@@ -14,7 +14,7 @@ sidebar:
     text: "Geospatial Network Analysis"
 gallery:
   - url: /assets/images/modularity class network copy.png
-    image_path: assets/images/modularity class network copy.png
+    image_path: assets/images/Modularity Class Network copy.png
     alt: "Global-Urban Digital Nomad Networks"
   - url: /assets/images/Top 30 Digital Nomad Cities copy.png
     image_path: assets/images/Top 30 Digital Nomad Cities copy.png
