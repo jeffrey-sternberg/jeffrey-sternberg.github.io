@@ -14,7 +14,7 @@ sidebar:
     text: "Geospatial Network Analysis, Multi-sited Ethnography"
 gallery:
   - url: /assets/images/nomad_network.png
-    image_path: assets/images/unomad_network.png
+    image_path: assets/images/nomad_network.png
     alt: "Global-Urban Digital Nomad Networks"
   - url: /assets/images/la_podshare.png
     image_path: assets/images/la_podshare.png
