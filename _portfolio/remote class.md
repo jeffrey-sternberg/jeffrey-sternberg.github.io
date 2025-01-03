@@ -13,15 +13,15 @@ sidebar:
   - title: "Methods"
     text: "Geospatial Network Analysis, Multi-sited Ethnography"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/nomad_network.png
+    image_path: assets/images/unomad_network.png
+    alt: "Global-Urban Digital Nomad Networks"
+  - url: /assets/images/la_podshare.png
+    image_path: assets/images/la_podshare.png
+    alt: "Aspirants in Los Angeles"
+  - url: /assets/images/dharamsala_ghoomakad.png
+    image_path: assets/images/dharamsala_ghoomakad.png
+    alt: "Nomads in the Himilayas"
 ---
 Even though I have left the tenure-track behind, I am continuing to write and publish on my research projects which includes developing a book proposal, *Making the Remote Class*,  based on my dissertation for submission to university presses (Bloomsbury Academic & Verso).
 
