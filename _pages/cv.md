@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 classes: wide
+permalink: /cv/
 header:
   overlay_image: /assets/images/geo_network.png
   overlay_filter: 0.5
