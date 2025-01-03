@@ -4,10 +4,10 @@ excerpt: "Mapping Digital Nomad Migration Globally"
 classes: wide
 header:
   overlay_image: /assets/images/Modularity Class Network copy.png
-  teaser: /assets/images/Modularity Class Network copy.png
+  teaser: /assets/images/network_teaser.png
 sidebar:
   - title: "Dissertation Chapter & Article"
-    text: "Being prpared for Submisiion to _Urban Geography_" 
+    text: "Being prpared for Submission to _Urban Geography_" 
   - title: "Topics"
     text: "Digital Nomads, Global Cities, Agglomeration Economies"
   - title: "Methods"
