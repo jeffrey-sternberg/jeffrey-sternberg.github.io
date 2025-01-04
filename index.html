@@ -33,6 +33,33 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
 
 <p>My name is Jeff Sternberg and I received my PhD in Sociology from Northeastern University in 2021. I am a sociologist specializing in economic geography, computational social science, public policy and qualitative research methods. My career has spanned academia, municipal government and philanthropy. This website serves as my research portfolio.</p>
 
@@ -48,8 +75,5 @@ feature_row:
     <li>Urban Sociology</li>
   </div>
 </div>
-
-<h2> Education </h2>
-<p><b>PhD in Sociology</b><br>Northeastern University</p>
 
 {% include feature_row %}
