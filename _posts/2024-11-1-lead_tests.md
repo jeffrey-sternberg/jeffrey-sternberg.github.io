@@ -1,6 +1,6 @@
 ---
 title:  "Lead Water Testing in North Lawndale"
-classes:wide
+classes: wide
 header:
   teaser: "/assets/images/lead_line_teaser.png"
 categories: 
