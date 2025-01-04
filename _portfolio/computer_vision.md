@@ -5,7 +5,7 @@ classes: wide
 header:
   overlay_image: /assets/images/machine_vision_neighborhood.jpg
   teaser: /assets/images/machine_vision_neighborhood.jpg
-___
+---
 
 The online world has become one of the primary ways people construct, present, and reconstruct their identities - particularly younger generations - and images are rapidly becoming the main currency in the online world. While social scientists have successfully applied text analysis tools built by computer and information scientists to questions important to the social sciences, known as the text-as-data field, social scientists have yet to do the same with images-as-data. As the use of images on social media proliferates, images constitute a growing and mostly untapped source of knowledge about our social world. As we increasingly view each other’s lives through these GIF-ified emotions, filters, and images, it is important to understand whether online images reflect, reinforce, or have the power to challenge existing group-based inequalities.
 
