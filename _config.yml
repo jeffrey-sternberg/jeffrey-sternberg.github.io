@@ -317,9 +317,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  research_streams:
-    output: true
-    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -344,15 +341,6 @@ defaults:
       author_profile: true
 
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
-
-  # _research_streams
   - scope:
       path: ""
       type: portfolio
