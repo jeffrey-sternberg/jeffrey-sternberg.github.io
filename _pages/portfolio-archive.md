@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Remote Work & Urbanization
 layout: collection
 permalink: /portfolio/
 collection: portfolio
