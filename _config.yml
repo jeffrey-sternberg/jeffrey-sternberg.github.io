@@ -318,6 +318,18 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  cooperative_development:
+    output: true
+    permalink: /:collection/:path/
+
+  city_image:
+    output: true
+    permalink: /:collection/:path/
+
+  municipal_government:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
@@ -341,6 +353,33 @@ defaults:
       author_profile: true
 
   # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+  # _cooperative_development
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+  # _city_image
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+  # _municipal_government
   - scope:
       path: ""
       type: portfolio
