@@ -364,7 +364,7 @@ defaults:
   # _cooperative_development
   - scope:
       path: ""
-      type: portfolio
+      type: cooperative_development
     values:
       layout: single
       author_profile: false
@@ -373,7 +373,7 @@ defaults:
   # _city_image
   - scope:
       path: ""
-      type: portfolio
+      type: city_image
     values:
       layout: single
       author_profile: false
@@ -382,7 +382,7 @@ defaults:
   # _municipal_government
   - scope:
       path: ""
-      type: portfolio
+      type: municipal_government
     values:
       layout: single
       author_profile: false
