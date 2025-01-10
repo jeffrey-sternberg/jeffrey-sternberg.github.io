@@ -1,10 +1,16 @@
 ---
 title: "Rescuing the Municipal State"
-excerpt: "The local contradictions of the American Rescue Plan"
+excerpt: "The Local Contradictions of the American Rescue Plan"
 classes: wide
 header:
   overlay_image: /assets/images/arpa_teaser.png
   teaser: /assets/images/arpa_teaser.png
+
+sidebar:
+  - title: "Article"
+    text: "Being prpared for Submission to _New Left Review_" 
+  - title: "Topics"
+    text: "Municipal Finance, New Municipalism, State Theory, State Keynesianism, American Rescue Plan"
 ---
 
 <em>Abstract</em>
