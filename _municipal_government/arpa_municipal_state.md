@@ -4,6 +4,7 @@ excerpt: "The Local Contradictions of the American Rescue Plan"
 classes: wide
 header:
   overlay_image: /assets/images/arpa_teaser.png
+  overlay_filter: 0.2
   teaser: /assets/images/arpa_teaser.png
 
 sidebar:
