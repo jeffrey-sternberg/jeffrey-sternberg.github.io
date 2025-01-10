@@ -3,8 +3,8 @@ title: "Rescuing the Municipal State"
 excerpt: "The local contradictions of the American Rescue Plan"
 classes: wide
 header:
-  overlay_image: /assets/images/arpa_teaser.jpg
-  teaser: /assets/images/arpa_teaser.jpg
+  overlay_image: /assets/images/arpa_teaser.png
+  teaser: /assets/images/arpa_teaser.png
 ---
 
 <em>Abstract</em>
