@@ -12,14 +12,18 @@ header:
       url: "/cv/"
 ---
 <h2> Courses Taught </h2>
-<strong>Gerald R. Ford School of Public Policy, The University of Michigan </strong><br />  
-<em>Applied Learning Seminar – Policy, Inequality & Histories of Uneven Development</em>, undergraduate, Fall 2022
-<p></p>
-<strong>College of Social Sciences & Humanities, Northeastern University</strong><br />  
-<em>Digital Methods for Social Sciences and Humanities</em>, undergraduate, College of Social Science and Humanities, Summer 2020
-<p></p> 
-<strong>Department of Sociology & Anthropology, Northeastern University</strong><br />  
-<em>The Foundations of Sociological Theory</em>, undergraduate, Sociology, Spring 2019
+<p>
+  <strong>Gerald R. Ford School of Public Policy, The University of Michigan </strong><br>
+  <em>Applied Learning Seminar – Policy, Inequality & Histories of Uneven Development</em>, undergraduate, Fall 2022
+</p>
+<p>
+  <strong>College of Social Sciences & Humanities, Northeastern University</strong><br>
+  <em>Digital Methods for Social Sciences and Humanities</em>, undergraduate, College of Social Science and Humanities, Summer 2020
+</p> 
+<p>
+  <strong>Department of Sociology & Anthropology, Northeastern University</strong><br>
+  <em>The Foundations of Sociological Theory</em>, undergraduate, Sociology, Spring 2019
+</p>
 
 <br>
 <h2> Teaching Philosophy </h2>
