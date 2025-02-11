@@ -24,7 +24,6 @@ header:
   <strong>Department of Sociology & Anthropology, Northeastern University</strong><br>
   <em>The Foundations of Sociological Theory</em>, undergraduate, Sociology, Spring 2019
 </p>
-
 <br>
 <h2> Teaching Philosophy </h2>
 <p>Through my teaching, I have attempted to provide my students with a survey of diverse epistemological frameworks, social science methodologies, and research experiences to not only introduce them to skills to use in their work-lives, but also to be able to locate themselves in the worlds and institutions they occupy. In my classroom, students learn engagement, develop a sense of action, and gain an understanding of place and its role in reproducing and contesting historical social inequalities. In my courses, my teaching goal is to guide students toward a critical awareness of how society is organized that they can apply to their own work and lives. By focusing on the intersection of culture, the economy, politics and society, I have fundamentally aimed to impart to them an almost Gramsican view of social change that they can take a part in, both inside institutions of power (the state and firms in the economy), and outside of them (social, political and countercultural movements). I have attempted to expose students to the historical and social embeddedness of knowledge production and its role in reproducing systems of power, inequality and exclusion, both in the literature and through methodology.</p> 
